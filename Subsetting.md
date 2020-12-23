@@ -48,7 +48,7 @@ grades = [88, 72, 60, 50]
 grades[1:3]
 >[72,60]
 ```
-==**Start** index **included**! **End** index **excluded**!==
+==**Start** index **included**! **End** index **excluded**!== 
 
 #### 2.list[2:] list[:]
  You have start index, but no end index.
