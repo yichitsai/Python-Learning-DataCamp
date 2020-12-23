@@ -48,7 +48,7 @@ grades = [88, 72, 60, 50]
 grades[1:3]
 >[72,60]
 ```
-==**Start** index **included**! **End** index **excluded**!== 
+#### **Start** index **included**! **End** index **excluded**!
 
 #### 2.list[2:] list[:]
  You have start index, but no end index.
@@ -78,7 +78,7 @@ x[2][0] #第2個list的第0個數字
 x[-1] #從["a","b","c"]數來倒數第0個list為始反推
 >["g", "h", "i"]
 
-x[-0] or x[-3] ＃倒數第0個開始=第0個list=
+x[-0] or x[-3] ＃倒數第0個開始=第0個list
 >["a", "b", "c"]
  ```
 
